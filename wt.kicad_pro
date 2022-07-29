@@ -351,23 +351,39 @@
     ],
     [
       "a6a17a2f-9a0e-4339-b298-28856def8d0d",
-      "Pot CH1-A1"
+      "Pot CH1-A"
     ],
     [
       "5656f5b3-68de-44d3-851f-7c4db3d756b7",
-      "Pot CH1-D1"
+      "Pot CH1-D"
     ],
     [
       "57c36b67-a721-4df7-80fc-cf62c1314ace",
-      "Pot CH1-S1"
+      "Pot CH1-S"
     ],
     [
       "9d15c989-b6bc-4829-99a3-a1727921bd91",
-      "Pot CH1-R1"
+      "Pot CH1-R"
     ],
     [
       "6e8026f3-2cfd-4057-b395-5a84de768b9a",
       "Mix"
+    ],
+    [
+      "f84e7a27-ca4e-4a9f-9f8c-05969ce0b586",
+      "BTN_USR1"
+    ],
+    [
+      "beee4fd6-349b-4e13-bcaa-ef0ef86c5d63",
+      "BTN_USR2"
+    ],
+    [
+      "81982b08-310b-42b3-8894-e0f407582500",
+      "BTN_EDT1"
+    ],
+    [
+      "bc6c7643-e028-46ad-8cc4-c74d807dc480",
+      "BTN_EDT2"
     ]
   ],
   "text_variables": {}
