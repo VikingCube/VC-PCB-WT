@@ -420,68 +420,80 @@
       "DCA"
     ],
     [
-      "91e74aa6-705f-40ba-b6bd-d9322523111d",
-      "BTN_WT0"
-    ],
-    [
-      "b73bbd7d-bb91-4f3a-818f-062bdd81d097",
+      "bdd91b84-3a9e-4b32-98c9-2bd9a7f1f6fe",
       "BTN_WT1"
     ],
     [
-      "4d931d59-51e0-43ba-8294-f536a54b2b23",
+      "d0672bd5-77fe-44f2-986e-5c9230ada444",
       "Pot CH0-A"
     ],
     [
-      "dd2e11a0-e646-47e7-8a97-57760b12396a",
+      "127f33f1-f14d-4c06-b142-f664736b9b80",
       "Pot CH0-D"
     ],
     [
-      "bb7bfffe-8c97-4d4f-b26f-4c8fa010d3ab",
+      "e2d694f7-8489-42e4-82a3-b6bf4e7b41a1",
       "Pot CH0-S"
     ],
     [
-      "c416363a-4b13-4ea6-9a13-7f89ce63afc5",
+      "fb33a16b-a564-4506-8504-a13a1211dc42",
       "Pot CH0-R"
     ],
     [
-      "a6a17a2f-9a0e-4339-b298-28856def8d0d",
+      "c10cf105-e13b-4e23-a843-190752b5cd99",
       "Pot CH1-A"
     ],
     [
-      "5656f5b3-68de-44d3-851f-7c4db3d756b7",
-      "Pot CH1-D"
+      "841589b4-3c10-421f-bfd6-9ecfa512e158",
+      "BTN_WT0"
     ],
     [
-      "57c36b67-a721-4df7-80fc-cf62c1314ace",
+      "190513c8-74a2-4117-a822-7e0ee5339dad",
       "Pot CH1-S"
     ],
     [
-      "9d15c989-b6bc-4829-99a3-a1727921bd91",
+      "869a8a06-d379-464c-b10f-04215071180b",
       "Pot CH1-R"
+    ],
+    [
+      "0d456856-0a61-4035-a3e1-05e8f87394e3",
+      "BTN_USR1"
     ],
     [
       "6e8026f3-2cfd-4057-b395-5a84de768b9a",
       "Mix"
     ],
     [
-      "f84e7a27-ca4e-4a9f-9f8c-05969ce0b586",
-      "BTN_USR1"
-    ],
-    [
-      "beee4fd6-349b-4e13-bcaa-ef0ef86c5d63",
+      "a0e5fbd4-a2f7-49b9-8232-86aa6778fe2c",
       "BTN_USR2"
     ],
     [
-      "81982b08-310b-42b3-8894-e0f407582500",
+      "f55604de-a187-4a17-ac05-b5dd77599988",
       "BTN_EDT1"
     ],
     [
-      "bc6c7643-e028-46ad-8cc4-c74d807dc480",
+      "2f19aadf-f340-471a-b308-ad79a0cd7572",
       "BTN_EDT2"
     ],
     [
       "e824c659-32ba-400c-8fa0-3368d4abf8c1",
       "Power"
+    ],
+    [
+      "96116b3c-d23e-402d-bb7d-dffcc052f513",
+      "LEDs"
+    ],
+    [
+      "a4608a5e-e243-4c2c-8818-85504544b9cc",
+      "Controls"
+    ],
+    [
+      "f765d306-43f3-413b-90cd-eed1827ae15c",
+      "Pot CH1-D"
+    ],
+    [
+      "59eab284-2f84-4d39-9ba8-167dff6194b7",
+      "Connections"
     ]
   ],
   "text_variables": {}
