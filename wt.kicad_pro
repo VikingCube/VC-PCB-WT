@@ -494,6 +494,10 @@
     [
       "59eab284-2f84-4d39-9ba8-167dff6194b7",
       "Connections"
+    ],
+    [
+      "683510ee-97a1-48ac-b273-4c610a38a1fd",
+      "SWD_JTAG"
     ]
   ],
   "text_variables": {}
