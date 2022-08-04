@@ -460,10 +460,6 @@
       "BTN_USR1"
     ],
     [
-      "6e8026f3-2cfd-4057-b395-5a84de768b9a",
-      "Mix"
-    ],
-    [
       "a0e5fbd4-a2f7-49b9-8232-86aa6778fe2c",
       "BTN_USR2"
     ],
@@ -474,6 +470,10 @@
     [
       "2f19aadf-f340-471a-b308-ad79a0cd7572",
       "BTN_EDT2"
+    ],
+    [
+      "38cb31b0-b48a-422f-9069-f769bb1417e9",
+      "Pot CH0-F"
     ],
     [
       "e824c659-32ba-400c-8fa0-3368d4abf8c1",
@@ -498,6 +498,18 @@
     [
       "683510ee-97a1-48ac-b273-4c610a38a1fd",
       "SWD_JTAG"
+    ],
+    [
+      "043d0e9a-4b6b-46cb-bdd8-694a98c68f88",
+      "Pot CH0-G"
+    ],
+    [
+      "be7f1476-401a-4e15-b5f8-b3fa654dc930",
+      "Pot CH1-F"
+    ],
+    [
+      "e19dd40c-e931-4570-8764-d931306d9d6a",
+      "Pot CH1-G"
     ]
   ],
   "text_variables": {}
