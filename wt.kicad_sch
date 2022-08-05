@@ -3940,22 +3940,22 @@
       (reference "RV13") (unit 1) (value "Pot_500") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/bdd91b84-3a9e-4b32-98c9-2bd9a7f1f6fe/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/841589b4-3c10-421f-bfd6-9ecfa512e158/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/0d456856-0a61-4035-a3e1-05e8f87394e3/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/a0e5fbd4-a2f7-49b9-8232-86aa6778fe2c/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/f55604de-a187-4a17-ac05-b5dd77599988/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW5") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW5") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/2f19aadf-f340-471a-b308-ad79a0cd7572/6146eab9-fca2-4bb4-bc11-0a211214f1c3"
-      (reference "SW6") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW6") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/d0672bd5-77fe-44f2-986e-5c9230ada444/3a7b350e-3548-4144-ae5e-ce92a33dad18"
       (reference "U1") (unit 1) (value "LM324") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
