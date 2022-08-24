@@ -700,17 +700,17 @@
         )
       )
     )
-    (symbol "eurorack:C-2u2-1812" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+    (symbol "eurorack:C-2u2-0603" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Value" "C-2u2-1812" (id 1) (at 0.635 -2.54 0)
+      (property "Value" "C-2u2-0603" (id 1) (at 0.635 -2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder" (id 2) (at 0.9652 -3.81 0)
+      (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 0.9652 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "https://secure.reichelt.com/at/en/mlcc-1812-2-2-f-100-v-10--ecc-kts101b225k-p256478.html?search=2.2+uF&&r=1" (id 3) (at 0 0 0)
+      (property "Datasheet" "https://www.reichelt.com/at/en/smd-multilayer-capacitor-g0603-2-2-f-10-v-x7r-g0603-2-2-10-p89723.html?&trstct=pos_5&nbc=1" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "cap capacitor" (id 4) (at 0 0 0)
@@ -722,7 +722,7 @@
       (property "ki_fp_filters" "C_*" (id 6) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "C-2u2-1812_0_1"
+      (symbol "C-2u2-0603_0_1"
         (polyline
           (pts
             (xy -2.032 -0.762)
@@ -740,7 +740,7 @@
           (fill (type none))
         )
       )
-      (symbol "C-2u2-1812_1_1"
+      (symbol "C-2u2-0603_1_1"
         (pin passive line (at 0 3.81 270) (length 2.794)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -2429,7 +2429,7 @@
     (pin "2" (uuid 1e8547f7-2a97-4380-bfcf-70cee273e479))
   )
 
-  (symbol (lib_id "eurorack:C-2u2-1812") (at 144.145 111.125 270) (unit 1)
+  (symbol (lib_id "eurorack:C-2u2-0603") (at 144.145 111.125 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 35225c69-6fe2-4a15-9fc8-d82d764c75e3)
     (property "Reference" "C5" (id 0) (at 145.415 113.03 90)
@@ -2438,10 +2438,10 @@
     (property "Value" "C-2u2-1812" (id 1) (at 127 111.125 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder" (id 2) (at 140.335 112.0902 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 140.335 112.0902 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://secure.reichelt.com/at/en/mlcc-1812-2-2-f-100-v-10--ecc-kts101b225k-p256478.html?search=2.2+uF&&r=1" (id 3) (at 144.145 111.125 0)
+    (property "Datasheet" "https://www.reichelt.com/at/en/smd-multilayer-capacitor-g0603-2-2-f-10-v-x7r-g0603-2-2-10-p89723.html?&trstct=pos_5&nbc=1" (id 3) (at 144.145 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 33b92603-9b5b-46da-b0b1-6923338b91dc))
@@ -2655,7 +2655,7 @@
     (pin "2" (uuid cf59dc37-e355-4fb9-be88-012095dcea55))
   )
 
-  (symbol (lib_id "eurorack:C-2u2-1812") (at 144.145 105.41 270) (unit 1)
+  (symbol (lib_id "eurorack:C-2u2-0603") (at 144.145 105.41 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 60bc7c03-463a-43e6-8f17-71fb7806a209)
     (property "Reference" "C4" (id 0) (at 145.415 104.14 90)
@@ -2664,10 +2664,10 @@
     (property "Value" "C-2u2-1812" (id 1) (at 127 105.41 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder" (id 2) (at 140.335 106.3752 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 140.335 106.3752 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://secure.reichelt.com/at/en/mlcc-1812-2-2-f-100-v-10--ecc-kts101b225k-p256478.html?search=2.2+uF&&r=1" (id 3) (at 144.145 105.41 0)
+    (property "Datasheet" "https://www.reichelt.com/at/en/smd-multilayer-capacitor-g0603-2-2-f-10-v-x7r-g0603-2-2-10-p89723.html?&trstct=pos_5&nbc=1" (id 3) (at 144.145 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1502f33d-06da-4d20-afe0-ee422c15e6dd))
@@ -3496,10 +3496,10 @@
       (reference "C3") (unit 1) (value "C-100nF-0805") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/60bc7c03-463a-43e6-8f17-71fb7806a209"
-      (reference "C4") (unit 1) (value "C-2u2-1812") (footprint "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder")
+      (reference "C4") (unit 1) (value "C-2u2-1812") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/35225c69-6fe2-4a15-9fc8-d82d764c75e3"
-      (reference "C5") (unit 1) (value "C-2u2-1812") (footprint "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder")
+      (reference "C5") (unit 1) (value "C-2u2-1812") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/31959283-2eba-44a6-b213-87d4ded9f599"
       (reference "C6") (unit 1) (value "C-10nF-0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
