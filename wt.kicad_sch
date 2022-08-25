@@ -3534,9 +3534,6 @@
     (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/75075540-1964-459e-b37d-d4032799214a"
       (reference "C16") (unit 1) (value "C-100nF-0805") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/65953e2e-e2a7-4e09-8d42-2e501e959ba8"
-      (reference "C17") (unit 1) (value "C-Pol-10uF-FK-V") (footprint "Capacitor_SMD:CP_Elec_8x6.2")
-    )
     (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/9c623d99-7204-441b-9494-1bf40109f4b6"
       (reference "C18") (unit 1) (value "C-Pol-1uF-TAN") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A")
     )
