@@ -2082,10 +2082,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "AIN7" (shape input) (at 210.185 194.31 0) (fields_autoplaced)
+  (global_label "AIN7" (shape input) (at 210.185 110.49 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0d8c7d97-dbc4-4081-a37b-eb9c294fb551)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 194.2306 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 110.4106 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2110,10 +2110,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "AIN6" (shape input) (at 210.185 191.77 0) (fields_autoplaced)
+  (global_label "AIN6" (shape input) (at 210.185 113.03 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1a5dee72-ad99-4921-b344-9903de13a8c6)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 191.6906 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 112.9506 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2152,10 +2152,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "AIN5" (shape input) (at 210.185 113.03 0) (fields_autoplaced)
+  (global_label "AIN5" (shape input) (at 210.185 191.77 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 33507487-8d76-4536-9ded-844e07a2485f)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 112.9506 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 191.6906 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2243,10 +2243,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "AIN4" (shape input) (at 210.185 110.49 0) (fields_autoplaced)
+  (global_label "AIN4" (shape input) (at 210.185 194.31 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 70578800-dbe6-4732-bf22-876204b71a23)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 110.4106 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.8314 194.2306 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3551,6 +3551,18 @@
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/e19dd40c-e931-4570-8764-d931306d9d6a/83f3ddb4-65ee-40cc-aa78-9c947399bcd7"
       (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
     )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/30f04acf-723c-4d3e-94a4-a5f0e6d178d3"
+      (reference "#PWR0115") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/8ac53db2-d6e6-4bae-90d5-f1663d2ec3f8"
+      (reference "#PWR0116") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/a36b1143-6afb-42b8-af03-718868cb1657"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/8e1fc2a4-6bc8-4cac-90b8-f11a9ab0fe25"
+      (reference "#PWR0118") (unit 1) (value "-12V") (footprint "")
+    )
     (path "/ce04e4c1-9ead-4ae1-8ff7-69cbf5a77bba"
       (reference "C1") (unit 1) (value "C-22pF-0805") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -3619,6 +3631,12 @@
     )
     (path "/15c86530-4d16-4839-9bc6-a23bfedaa98a/9312a484-0344-4d0b-b4db-5c5aad454a6d"
       (reference "C23") (unit 1) (value "C-100nF-0805") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/176f5890-fa87-445d-a5eb-8d285f6782ca"
+      (reference "C24") (unit 1) (value "C-Pol-10uF-TAN") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/37f200f9-d47d-4193-b313-0b39d00ccfb3"
+      (reference "C25") (unit 1) (value "C-Pol-10uF-TAN") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C")
     )
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/d0672bd5-77fe-44f2-986e-5c9230ada444/4f91f338-1b66-422c-86de-03e72a556e0f"
       (reference "D1") (unit 1) (value "BAS 85 VIS") (footprint "Diode_SMD:D_MiniMELF")
@@ -3718,6 +3736,9 @@
     )
     (path "/55f62779-ad1a-4899-b894-15cdd1ec3e8e"
       (reference "JP1") (unit 1) (value "BOOT0") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/62791df6-a75e-4c5d-b235-9ee523a71715"
+      (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/c5361e3e-2aef-494b-b75e-964fb5c67e4f"
       (reference "Out_1") (unit 1) (value "LUM-1502-03_3.5mm_mono_vertical_jack") (footprint "eurorack:LUM 1502-03")
@@ -4112,14 +4133,14 @@
     (path "/a4608a5e-e243-4c2c-8818-85504544b9cc/38cb31b0-b48a-422f-9069-f769bb1417e9/1938cb01-94a5-4d00-bfbe-97a30c4046e0"
       (reference "U15") (unit 1) (value "LUM-1502-03_3.5mm_mono_vertical_jack") (footprint "eurorack:LUM 1502-03")
     )
-    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/0110dc09-7260-4b72-824b-88272648f7c3"
-      (reference "U16") (unit 1) (value "power_conn_10") (footprint "eurorack:power_10")
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/28d25066-cbcd-4827-8d73-23d9cf8fcee8"
+      (reference "U16") (unit 1) (value "power_conn_16") (footprint "eurorack:power_16")
     )
     (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/a45fefe3-f07e-4ab0-9207-a515cd2966e0"
       (reference "U17") (unit 1) (value "REF191") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/4698fe25-be48-4bd9-9c3f-bff9cceafc29"
-      (reference "U18") (unit 1) (value "L78L05ACU") (footprint "Package_TO_SOT_SMD:SOT-89-3_Handsoldering")
+    (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/42d93df4-449e-4283-8eae-f718a193e111"
+      (reference "U18") (unit 1) (value "LM7805_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/e824c659-32ba-400c-8fa0-3368d4abf8c1/885721f2-5906-4c87-b7c5-9a9ae02f9855"
       (reference "U19") (unit 1) (value "ZLDO1117G33TA") (footprint "Package_TO_SOT_SMD:SOT-223")
