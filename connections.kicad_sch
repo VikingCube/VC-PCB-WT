@@ -181,11 +181,11 @@
         )
       )
     )
-    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:GND3" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "GND" (id 1) (at 0 -3.81 0)
+      (property "Value" "GND3" (id 1) (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (id 2) (at 0 0 0)
@@ -197,10 +197,10 @@
       (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (id 5) (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"GND3\" , ground" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "GND_0_1"
+      (symbol "GND3_0_1"
         (polyline
           (pts
             (xy 0 0)
@@ -214,9 +214,9 @@
           (fill (type none))
         )
       )
-      (symbol "GND_1_1"
+      (symbol "GND3_1_1"
         (pin power_in line (at 0 0 270) (length 0) hide
-          (name "GND" (effects (font (size 1.27 1.27))))
+          (name "GND3" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -310,20 +310,20 @@
     (pin "2" (uuid 87ec3b0e-c812-468b-9cb3-ef1c2308962e))
   )
 
-  (symbol (lib_id "power:GND") (at 44.45 41.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 6e8df01c-21b9-4696-a649-c85a3f1f9b6a)
-    (property "Reference" "#PWR0100" (id 0) (at 44.45 48.26 0)
+  (symbol (lib_id "power:GND3") (at 44.45 41.91 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 4d78b8f8-c533-44a6-a86a-b38dd4d6ce9d)
+    (property "Reference" "#PWR?" (id 0) (at 44.45 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (id 1) (at 44.45 45.72 0))
+    (property "Value" "GND3" (id 1) (at 44.45 46.99 0))
     (property "Footprint" "" (id 2) (at 44.45 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 44.45 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 59294162-db09-4f33-9f13-62d833097407))
+    (pin "1" (uuid 63d7956d-339b-485f-9214-30ec3420f1a5))
   )
 
   (symbol (lib_id "eurorack:R-22-1206") (at 31.75 28.575 90) (unit 1)
