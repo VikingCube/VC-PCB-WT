@@ -1067,7 +1067,7 @@
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 191ca74e-3bf0-408a-a1a8-a793f9c9b409)
     )
@@ -4095,7 +4095,7 @@
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c14fedc8-f61a-4cf6-a168-5670da6c349f)
     )
@@ -4202,7 +4202,7 @@
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dfecc244-1b18-4807-bf54-3d06b0d9525a)
     )
@@ -4635,7 +4635,7 @@
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 30638bbd-83d7-4f68-ad2d-7f7e8292d35e)
     )
