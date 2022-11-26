@@ -160,7 +160,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3b74108b-848d-426c-b49f-a360fd2d14fb)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp 2c43d495-326b-46fb-9378-b73bf2518cb2))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 2c43d495-326b-46fb-9378-b73bf2518cb2))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -186,7 +186,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db65b62f-04ec-43a9-82f5-08fe8131fb46)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp 7a827989-5cd1-4a82-94ad-d4d29122f67a))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 7a827989-5cd1-4a82-94ad-d4d29122f67a))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -212,7 +212,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 73c4935b-bf13-479b-b95e-91a1d80b0f27)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp f8ed4aaf-029d-47e1-8936-50998acfdd06))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp f8ed4aaf-029d-47e1-8936-50998acfdd06))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -3723,7 +3723,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 612f4d98-6234-433f-a8aa-7425c94ef481)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp 860a5c88-97b1-43fe-97aa-5d094981da54))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 860a5c88-97b1-43fe-97aa-5d094981da54))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -4568,7 +4568,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bdb9c38c-3bde-4ddc-a168-85501021159c)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp 762c7410-3303-4251-aee3-5509ef3e99e3))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 762c7410-3303-4251-aee3-5509ef3e99e3))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -4594,7 +4594,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0b6f64a1-ac3a-42bb-aa02-0c5377899d06)
     )
-    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6 6) (drill 6) (layers F&B.Cu) (tstamp f6502997-7426-4e52-b388-67aa8aa9a61b))
+    (pad "" np_thru_hole circle locked (at 3.25 2.25) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp f6502997-7426-4e52-b388-67aa8aa9a61b))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
